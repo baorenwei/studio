@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
     Button mButton;
     TextView mTextView;
 
+    private void add(){
+
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
