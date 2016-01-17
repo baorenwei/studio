@@ -14,4 +14,5 @@ public class TestActivity {
     TextView mTextView;
     ListView mListView;
     EditText mEditText;
+    Thread thread;
 }
