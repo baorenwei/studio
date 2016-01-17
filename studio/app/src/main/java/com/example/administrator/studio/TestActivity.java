@@ -1,6 +1,7 @@
 package com.example.administrator.studio;
 
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.TextView;
 
 /**
@@ -10,4 +11,5 @@ public class TestActivity {
 
     Button mBtn;
     TextView mTextView;
+    ListView mListView;
 }
